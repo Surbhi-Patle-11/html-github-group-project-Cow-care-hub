@@ -84,12 +84,17 @@ This project is created for educational purposes only.
 <td align="center"> <img src="images/contributors/anjali.jpg" width="120"><br><b>Anjali Mhase</b><br> Student Developer 
 </td> </tr> </table>
 
+<a href="https://github.com/anjalimhase24/html-github-group-project-Cow-care-hub/graph/contributors">
+ <img src="https://contrib.rocks/images?repo=anjalimhase24/html-github-group-project-Cow-care-hub"/></a>
 ##  Acknowledgement
 
 Special thanks to teachers and mentors for their guidance and support.
+<<<<<<< HEAD
 
 @Surbhi-Patle-11
 @Romapanchal15
 @AryaThube-9
 @TusharKhatale16
 @anjalimhase24
+=======
+>>>>>>> ab3cc8f5ca346a5d6298748da6d4898dd874cf11
