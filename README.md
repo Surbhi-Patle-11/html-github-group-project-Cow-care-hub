@@ -112,7 +112,6 @@ Diseases
 <a href="https://github.com/Surbhi-Patle-11/html-github-group-project-Cow-care-hub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Surbhi-Patle-11/html-github-group-project-Cow-care-hub" alt="Contributors">
 </a>
-Made with [contrib.rocks](https://contrib.rocks).
 
 
 ## 🎓 Project Use
