@@ -109,8 +109,6 @@ Diseases
 
 🖼️ Images & Icons
 
-## 👩‍🤝‍👩 Contributors
-
 ## 👩‍💻 Contributors ❤️
 
 <a href="https://github.com/Surbhi-Patle-11/html-github-group-project-Cow-care-hub/graphs/contributors">
